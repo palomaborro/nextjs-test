@@ -1,3 +1,5 @@
 {
-    "git.autoRepositoryDetection": "subFolders"
+    "git.autoRepositoryDetection": "subFolders",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
